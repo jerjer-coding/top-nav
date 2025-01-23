@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    background-image: url("https://cakapinterview.com/wp-content/uploads/2021/04/PT-Kaldu-Sari-Nabati-Indonesia-01.jpg");
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(189, 29, 29);
+    width: 100%;
+}
+
+nav a{
+    padding: 10px 15px;
+    color: rgb(255, 255, 255);
+    float: right;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: grey;
+}
+.banner{
+    float: left;
+    color: rgb(255, 217, 0);
+    font-size: xx-large;
+}
